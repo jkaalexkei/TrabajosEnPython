@@ -1,4 +1,4 @@
-mystr = "Hola"
+mystr = "Alex"
 
 #print(dir(mystr))
 
@@ -9,6 +9,10 @@ print(mystr.upper())
 # print(dir(valor))
 
 print(mystr.replace("Hola","alex").upper())#metodos encadenados
+
+print("Mi nombre es: " + mystr)
+
+print(f"Mi nombre es: {mystr}")
 
 
 

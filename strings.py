@@ -14,5 +14,6 @@ print("Mi nombre es: " + mystr)
 
 print(f"Mi nombre es: {mystr}")
 
+print("Mi nombre es: {0}".format(mystr))
 
 

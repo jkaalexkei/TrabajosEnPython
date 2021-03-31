@@ -36,3 +36,27 @@ colores.insert(len(colores),'naranja')# aca se evalua la longitud de la lista co
 
 print(colores)
 
+colores.pop()#Elimina el ultimo elemento de una lista
+
+#print(colores)
+
+#colores.remove('azul')#Remueve o quita un elemento en particular
+#print(colores)
+
+#colores.clear()#elimina todos los elementos de una lista
+
+print(colores)
+
+colores.sort()#ordena los elementos de una lista
+print(colores)
+
+colores.sort(reverse=True)#ordena los elementos de una lista de manera inversa
+print(colores)
+
+
+print(colores.index('rojo'))#Obtenemos el indice de un elemento
+print(colores.count('rojo'))#cuenta el numero de elementos segun el parametro establecido
+
+
+
+

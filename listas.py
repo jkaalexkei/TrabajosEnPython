@@ -13,7 +13,7 @@ colores = ['rojo','verde','azul']
 
 # print(rango)
 
-# print(colores[2])#aca mostramos un elemento en particular de una lista
+# print(colores[2])aca mostramos un elemento en particular de una lista
 
 # print('marron' in colores)#con esta instruccion sabemos si un elemento se encuentra en una lista
 

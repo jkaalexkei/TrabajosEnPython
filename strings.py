@@ -16,4 +16,11 @@ print(f"Mi nombre es: {mystr}")
 
 print("Mi nombre es: {0}".format(mystr))
 
+print(dir(mystr))
+
+print(count(mystr))
+
+
+
+
 

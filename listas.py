@@ -57,6 +57,52 @@ print(colores)
 print(colores.index('rojo'))#Obtenemos el indice de un elemento
 print(colores.count('rojo'))#cuenta el numero de elementos segun el parametro establecido
 
+##################LISTAS######################################
+
+lista = [1,1.2,"a"]
+
+o = type(lista)
+
+miLista = ["maria","pepe","marta","antonio"]
+
+print(miLista)
+
+print(miLista[-2])#Cuenta del ultimo al primer elemento
+
+#acceder a una parte de la lista [inicio:fin]
+
+#print(miLista[2:])
+
+#agregar elementos a la lista
+
+miLista.append("alex")#agrega elementos al final de la lista
+miLista.insert(1,"keidy")#agrega un elemento en una posicion especificada de la lista
+
+miLista.extend(["pablo","pedro","luis"])#agrega varias elementos a la lista
+
+print(miLista.index("marta"))#devuelve la posicion del elemento establecido
+
+#print(miLista)
+
+print("alex" in miLista)#la funcion in verifica si un elemento esta una lista
+
+miLista.remove("alex")#Elimina un elemento de la lista
+
+miLista.pop()#elimmina el ultimo elemento de una lista
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

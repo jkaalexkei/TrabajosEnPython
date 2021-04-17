@@ -31,6 +31,9 @@ nombre , edad = mitupla
 
 print(nombre , " " , edad)
 
+print(mitupla.index(13))
+
+
 
 
 

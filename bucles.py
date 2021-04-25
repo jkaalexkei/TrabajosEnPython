@@ -14,6 +14,22 @@ for nom, ape in datos.items():
     print(nom, ' ', ape)
 
 
+num = input("Ingresa Cedula: ")
+while num =="":
+    if num == "":
+        print("campo vacio")
+        num = input("Ingresa Cedula: ")
+    else:
+        print(num)
+        break
+
+
+
+    
+
+    
+
+
 
 
 

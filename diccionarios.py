@@ -50,6 +50,11 @@ mitupla = ["venezuela","colombia"]
 midicci = {mitupla[0]:"caracas", mitupla[1]:"bogota"}
 print(midicci)
 
+print(midicci.keys())#devuelve el nombre de las claves
+print(midicci.values())#devuelve los valores de las claves
+print(len(midicci))#devuelve la longitud del diccionarioi
+
+
 
 
 

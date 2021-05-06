@@ -44,6 +44,7 @@ print(f"""Nombre del Producto: {nombre_prod}
 # Escribir un programa que pregunte al usuario si quiere una pizza vegetariana o no, y en función de su respuesta le muestre un menú con los ingredientes disponibles para que elija. Solo se puede eligir un ingrediente además de la mozzarella y el tomate que están en todas la pizzas. Al final se debe mostrar por pantalla si la pizza elegida es vegetariana o no y todos los ingredientes que lleva.
 
 
+
 pizzaVegetariana = ["Pimiento","Tofu","Mozarella","tomate"]
 pizzaNoVegetariana = ["Peperoni","Jamón","Salmón","Mozarella","tomate"]
 

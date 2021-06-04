@@ -58,7 +58,7 @@ print(colores.index('rojo'))#Obtenemos el indice de un elemento
 print(colores.count('rojo'))#cuenta el numero de elementos segun el parametro establecido
 
 ##################LISTAS######################################
-
+"#c9d1d9"
 lista = [1,1.2,"a"]
 
 o = type(lista)
